@@ -1,4 +1,7 @@
 This program creates the REMComp measure from Christensen, T. E., Huffman, A. A., Lewis-Western, M. F., & Valentine, K. (2022). 
-A simple approach to better distinguish real earnings manipulation from strategy changes. Forthcoming at Contemporary Accounting Research.
+A simple approach to better distinguish real earnings manipulation from strategy changes. Forthcoming at Contemporary Accounting Research. 
+https://doi.org/10.1111/1911-3846.12830
+
+Please cite Christensen, Huffman, Lewis-Western and Valentine (2022) in your work that uses this code.
 
 This code only produces the REMComp measure and requires the researcher to use outside data and macros, referenced in the comments in the code.
